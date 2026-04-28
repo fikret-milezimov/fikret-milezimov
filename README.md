@@ -3,6 +3,7 @@
 Junior Python/Django Developer | QA Automation Basics | Data Projects
 
 I enjoy learning software development and building practical projects with Python and web technologies.
+
 I am currently looking for a Entry level/Junior Python/Django Developer opportunity where I can apply my backend, testing and problem-solving skills.
 
 ---
